@@ -1,3 +1,5 @@
+# Enemies
+---
 
 Part of the story in my head is that the ghost wakes up in a graveyard but doesn't know who they are. The ghost understands
 that it's dead, but doesn't know what happened. It decides to leave the graveyard in search for answers. Unknown to the ghost, 
@@ -295,8 +297,13 @@ This will depend on the sprites you use. Usually, it'll probably be fine, but si
 it's messing with Unity's detection system. But we can fix it, which unfortunately also means we need to redo a lot.
 
 >[!TIP]
+> Always check how Unity slices sprite sheets before you use them for anything. You don't want to have to redo work.
+> 
 > If you're just following along to learn and plan on using your own sprites, don't worry about completing the next steps.
 > Just know that you may need to do the same, depending on the sprites you use.
+
+## Fixing the Animations
+---
 
 * In the Enemy folder, delete all the animations. We need to remake them.
 * Select one of the sprites and look at it in the Sprite Editor

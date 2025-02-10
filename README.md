@@ -22,7 +22,7 @@ that we can use in the editor, how to use sprites, and animations.
 * [Taking Damage](05_Damage%2FDAMAGE.md)
 * [Game Manager and UI](06_Manager%2FGMUI.md)
 * [Enemies](07_Enemies%2FENEMIES.md)
-* [Background](08_Background%2FBG.md)
+* [Add A Background](08_Background%2FBG.md)
 * [Making A Level](09_Level%2FLEVEL.md)
 
 

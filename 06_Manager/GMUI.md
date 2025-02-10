@@ -1,6 +1,6 @@
 # Game Manager and UI System
-
-Let's setup the UI to display a basic health system using sprites:
+---
+Let's set up the UI to display a basic health system using sprites:
 * In the Sprites folder, create a new folder named UI
 * Add the sprites for the empty, half-full, and full hearts.
 * Create a UI > Image Object
@@ -59,7 +59,7 @@ be okay:
 ![img_7.png](img_7.png)
 
 ## Game Manager
-
+---
 1. Create and empty object
 2. Rename it to GameManager
 3. Create a new script named GameManager

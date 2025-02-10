@@ -1,4 +1,5 @@
 # Project Setup
+---
 
 * Create a new project using the _Universal 2D_ template.
 * Give it a name of _Platformer_ or something similar

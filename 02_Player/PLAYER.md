@@ -1,6 +1,10 @@
-# Basic Player Setup
+# Create the Player
+---
+Okay, I know we're not starting with making the player, but the player needs something to stand on.
+
 
 ## Make Some Ground
+---
 * Create a 2D Square sprite.
 * Rename it to Ground
 * Stretch it to cover the bottom of the screen area.
@@ -10,6 +14,7 @@
 ![img.png](img.png)
 
 ## Make Some Player
+---
 * Create another 2D Square sprite.
 * Rename it to Player
 * Scale it so it's a little taller than it is wide.
@@ -22,7 +27,7 @@
 * Open the script
 
 ## Player Script
-
+---
 Create some globals to handle player movement:
 
 ![img_2.png](img_2.png)

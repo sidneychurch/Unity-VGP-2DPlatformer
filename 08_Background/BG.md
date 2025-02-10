@@ -1,4 +1,5 @@
-
+# Add A Background
+---
 
 * Add the BG sprite to the Sprites > Graveyard > Backgrounds folder
 * Drag and drop to the scene.

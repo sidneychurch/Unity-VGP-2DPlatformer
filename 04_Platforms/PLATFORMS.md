@@ -1,4 +1,4 @@
-# Platforms - Tiling Sprites
+# Platforms
 ---
 
 So we created a tiled floor for the bottom ground, but what about floating platforms. We could use the same asset, but

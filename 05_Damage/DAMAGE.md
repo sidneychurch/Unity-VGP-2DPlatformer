@@ -1,4 +1,4 @@
-# Player Damage
+# Taking Damage
 ---
 Often in platformers, there's a damage system for the player. Depending on the difficulty of the game, the player 
 can take one or multiple hits before losing the level. I'm going to make it so the player can take a few hits before
@@ -11,7 +11,7 @@ Here we'll go through:
 * Implementing a GUI so the player knows how many more hits they can take
 
 ## Dangerous Obstacles
-
+---
 In the Sprites folder:
 * Create a folder named Obstacles
 * Place the spikes.png in the folder
@@ -25,7 +25,7 @@ Then:
 ![img.png](img.png)
 
 ## Player
-
+---
 Now let's modify the player script so we know when we hit an obstacle. Let's add this logic to the script:
 
 ![img_1.png](img_1.png)

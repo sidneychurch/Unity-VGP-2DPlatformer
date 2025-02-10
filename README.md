@@ -1,31 +1,12 @@
 # Video Game Prototyping With Unity - _2D Platformer_
 ***
+For this prototype we'll be looking into how we can make a 2D platformer. We'll also be diving into making art tools
+that we can use in the editor, how to use sprites, and animations.
 
-- Setup
-  - Sprites folder
-    - Player
-  - Audio
-  - Prefabs
-  - Scripts
-- Basic player setup
-  - use single sprite
-  - get player input for left, right, and space (jump)
-  - flip sprite in the correct direction that it's walking
-  - make jump
-- Camera and Platforms
-    - set up some square sprites as test platforms
-    - extend level and have camera follow player
-- Enemies and Player Health
-  - Indicate player has taken damage with sprite
-  - Enemy animation with sprite sheet
-- UI and GameManager
-  - Let game manger know changes in player health through event
-  - Game manager updates UI
-- Collectibles and Power-ups
-  - Way to gain back health
-- Creating your level with sprite atlas
+![finish.gif](09_Level%2Ffinish.gif)
 
-- Provide just assets used in game, as well as full pack
+>[!TIP]
+> [Here, you can download the sprites](https://github.com/sidneychurch/Unity-VGP-2DPlatformer/raw/refs/heads/main/VGP-platformer-sprites.zip) that I use in the guide here in order to follow along.
 
 >[!NOTE]
 >These guides will increasingly become bullet-point action lists, with the expectation that you've completed the previous
@@ -36,15 +17,13 @@
 ***
 * [Project Setup](/01_Setup/SETUP.md)
 * [Create the Player](/02_Player/PLAYER.md)
-* [Camera Follow](/03_Camera/CAMERA.md)
-* [Obstacles](/04_Obstacle/OBSTACLE.md)
-* [Game Manager](/05_GameManager/MANAGER.md)
-* [Infinite Loop](/06_Infinite/INFINITE.md)
-* [User Interface](/07_Interface/INTERFACE.md)
-* [Score](/08_Score/SCORE.md)
-* [Game Over](/09_GameOver/GAMEOVER.md)
-* [Reloading](/10_Reload/RELOAD.md)
-
+* [Adding Sprites](/03_Sprites/SPRITES.md)
+* [PLATFORMS.md](04_Platforms/PLATFORMS.md)
+* [DAMAGE.md](05_Damage%2FDAMAGE.md)
+* [GMUI.md](06_Manager%2FGMUI.md)
+* [ENEMIES.md](07_Enemies%2FENEMIES.md)
+* [BG.md](08_Background%2FBG.md)
+* [LEVEL.md](09_Level%2FLEVEL.md)
 
 
 ---

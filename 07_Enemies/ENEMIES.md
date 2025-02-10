@@ -328,7 +328,31 @@ Click the Apply button at the middle-top-ish.
 For the BlobGuard object:
 * I made the Idle sprite sheet the Sprite in the Sprite Renderer.
 * Set Draw Mode to Simple
+* Also set the transition time to 0 for the transitions into Disassemble to make it happen as soon as the player hits the Guard.
 
 After all that, it was kind of worth it:
 
 ![animFixed.gif](animFixed.gif)
+
+Some Tweaks
+I want to make it so that the player can't collide with the Guard when disassembled. I also want to make it so that if
+player touches the Guard, other than with the feet, they take damage.
+
+For the first part, I'm just going to disable and enable the rigidbody on the Guard. I'll disable it of the Guard is disassembled.
+I can do this by adding an else statement onto my if(!isDisassembled):
+
+![img_34.png](img_34.png)
+
+Then enable it when the Guard reaches the idle animation
+
+![img_35.png](img_35.png)
+
+The next one is easy too. In the player script where we check for collision, we can make the if statement also call the DamagePlayer function.
+Instead of adding another if statement, which you could, we can make the logic true if the game tag is Obstacle OR Enemy.
+
+>[!TIP]
+> For if statements, we've used the AND operator (&&) to check for two things to be true. We can also use the OR operator (||) to check if either given
+> option is true.
+
+![img_36.png](img_36.png)
+

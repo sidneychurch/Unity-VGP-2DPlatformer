@@ -1,4 +1,4 @@
-
+# Adding Sprites
 
 So far we've only used Unity's builtin sprites, 2D images. This is how you want to start developing a game, making sure
 the game is fun to play before investing into any artwork, but obviously, that's not that fun to look at. We're going

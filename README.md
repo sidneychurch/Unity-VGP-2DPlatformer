@@ -18,12 +18,12 @@ that we can use in the editor, how to use sprites, and animations.
 * [Project Setup](/01_Setup/SETUP.md)
 * [Create the Player](/02_Player/PLAYER.md)
 * [Adding Sprites](/03_Sprites/SPRITES.md)
-* [PLATFORMS.md](04_Platforms/PLATFORMS.md)
-* [DAMAGE.md](05_Damage%2FDAMAGE.md)
-* [GMUI.md](06_Manager%2FGMUI.md)
-* [ENEMIES.md](07_Enemies%2FENEMIES.md)
-* [BG.md](08_Background%2FBG.md)
-* [LEVEL.md](09_Level%2FLEVEL.md)
+* [Platforms](04_Platforms/PLATFORMS.md)
+* [Taking Damage](05_Damage%2FDAMAGE.md)
+* [Game Manager and UI](06_Manager%2FGMUI.md)
+* [Enemies](07_Enemies%2FENEMIES.md)
+* [Background](08_Background%2FBG.md)
+* [Making A Level](09_Level%2FLEVEL.md)
 
 
 ---

@@ -37,3 +37,5 @@ That gives us this:
 
 ![camFix.gif](camFix.gif)
 
+---
+>Prev: [Enemies](07_Enemies%2FENEMIES.md) | Next: [Making A Level](09_Level%2FLEVEL.md)

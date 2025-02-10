@@ -210,3 +210,5 @@ Now that things are working how I like, I'm going to turn the GroundTile object 
 
 ![img_25.png](img_25.png)
 
+---
+>Prev: [Create the Player](/02_Player/PLAYER.md) | Next: [Platforms](04_Platforms/PLATFORMS.md)

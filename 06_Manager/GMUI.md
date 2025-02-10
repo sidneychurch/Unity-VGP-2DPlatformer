@@ -118,3 +118,6 @@ so that we only run each statement as needed (Alternatively, you can also use a 
 Save, fill in the references, and test it out:
 
 ![health.gif](health.gif)
+
+---
+>Prev: [Taking Damage](05_Damage%2FDAMAGE.md) | Next: [Enemies](07_Enemies%2FENEMIES.md)

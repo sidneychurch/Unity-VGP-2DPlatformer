@@ -66,3 +66,6 @@ where the player was previously to where the player is currently. If it's in the
 Save it, set the references, move the finish object near the end, and test it out:
 
 ![finish.gif](finish.gif)
+
+---
+>Prev: [Background](08_Background%2FBG.md)

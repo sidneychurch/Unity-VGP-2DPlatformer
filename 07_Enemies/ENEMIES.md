@@ -356,3 +356,6 @@ Instead of adding another if statement, which you could, we can make the logic t
 
 ![img_36.png](img_36.png)
 
+
+---
+>Prev: [Game Manager and UI](06_Manager%2FGMUI.md)  | Next: [Background](08_Background%2FBG.md)

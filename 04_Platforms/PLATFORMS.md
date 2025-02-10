@@ -76,3 +76,6 @@ I'm also going to resize the box collider's Y size and Offset so it better lines
 ![img_10.png](img_10.png)
 
 Since it's working, we can add the Ground tag and turn the Platform object into a prefab.
+
+---
+>Prev: [Adding Sprites](/03_Sprites/SPRITES.md) | Next: [Taking Damage](05_Damage%2FDAMAGE.md)

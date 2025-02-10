@@ -189,3 +189,5 @@ another if-statement to reset the state of jumping, and comment out or delete th
 Back in Unity, assign the reference to the Feet object in the Player.
 If you try the game out now, it should feel closer to what you expect from a traditional platformer.
 
+---
+>Prev: [Project Setup](/01_Setup/SETUP.md) | Next: [Adding Sprites](/03_Sprites/SPRITES.md)

@@ -69,4 +69,4 @@ Save it, set the references, move the finish object near the end, and test it ou
 ![finish.gif](finish.gif)
 
 ---
->Prev: [Background](08_Background%2FBG.md)
+>Prev: [Background](/08_Background/BG.md)

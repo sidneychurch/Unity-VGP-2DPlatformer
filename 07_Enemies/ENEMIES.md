@@ -365,4 +365,4 @@ Instead of adding another if statement, which you could, we can make the logic t
 
 
 ---
->Prev: [Game Manager and UI](06_Manager%2FGMUI.md)  | Next: [Background](08_Background%2FBG.md)
+>Prev: [Game Manager and UI](/06_Manager/GMUI.md)  | Next: [Background](/08_Background/BG.md)

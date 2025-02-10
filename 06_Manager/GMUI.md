@@ -120,4 +120,4 @@ Save, fill in the references, and test it out:
 ![health.gif](health.gif)
 
 ---
->Prev: [Taking Damage](05_Damage%2FDAMAGE.md) | Next: [Enemies](07_Enemies%2FENEMIES.md)
+>Prev: [Taking Damage](/05_Damage/DAMAGE.md) | Next: [Enemies](/07_Enemies/ENEMIES.md)

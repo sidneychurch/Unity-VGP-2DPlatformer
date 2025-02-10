@@ -91,4 +91,4 @@ If we save the script, assign the references for the sprites, and test it out we
 Next we want to set up the Game Manager and GUI
 
 ---
->Prev: [Platforms](04_Platforms/PLATFORMS.md) | Next: [Game Manager and UI](06_Manager%2FGMUI.md)
+>Prev: [Platforms](/04_Platforms/PLATFORMS.md) | Next: [Game Manager and UI](/06_Manager/GMUI.md)
